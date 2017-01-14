@@ -1,3 +1,3 @@
-This document will be the home for collaboration information.
+# Collaborating
 
 This file is liscenced under the GFDL.

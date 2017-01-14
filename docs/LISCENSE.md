@@ -1,7 +1,7 @@
 All work is liscenced under a per-file basis. All files will have note at the top of the file identifying which liscence is used for that particular file. The liscences in their entirety are printed below.
 
 
-### GNU GENERAL PUBLIC LICENSE
+# GNU GENERAL PUBLIC LICENSE
 
 Version 3, 29 June 2007
 
@@ -677,7 +677,7 @@ applications with the library. If this is what you want to do, use the
 GNU Lesser General Public License instead of this License. But first,
 please read <http://www.gnu.org/philosophy/why-not-lgpl.html>.
 
-### GNU Free Documentation License
+# GNU Free Documentation License
 
 Version 1.3, 3 November 2008
 

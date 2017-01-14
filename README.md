@@ -12,7 +12,7 @@ git clone https://github.com/[your GitHub username]/LibreWorkout.git
 ```
 Do *not* run setup.py, your program files may be moved.
 ## User Installation
-Download the program zip and extract the folder named "LibreWorkout-master" and run setup.py with administrator privlages.
+Download the program zip and extract the folder named "LibreWorkout-master" and run setup.py with administrator privelages.
 * If you are a windows user your installation will be located at C:\Program Files\LibreWorkout and there will be a shortcut located on your desktop.
 
 The entirety of this project is written in Python and can be eddited with a text editor.

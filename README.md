@@ -9,3 +9,4 @@ Fork the repository and enter the following into a terminal
 git clone https://github.com/[your GitHub username]/LibreWorkout.git
 ```
 The entirety of this project is written in Python and can be eddited with a text editor.
+![GFDL](https://www.gnu.org/graphics/gfdl-logo-small.png) ![GPL](https://www.gnu.org/graphics/gplv3-127x51.png)

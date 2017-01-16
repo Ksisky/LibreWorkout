@@ -12,5 +12,6 @@ Submit implemention ideas in issue #2
 - [ ] Workout reflection and notes.
 - [ ] User profiles.
 - [ ] Data persistance.
+- [ ] Vital tracking, weight, height.
 
 This file is liscenced under the GFDL
